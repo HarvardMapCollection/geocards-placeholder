@@ -1,0 +1,84 @@
+﻿cardID,adm_eng,cd_type,area_v,area_sqm,basin,clmt_txt,clm_indx
+1,Olonetsk,province," 131,709 "," 57,952 ",Baltic Sea,harsh,-3
+2,Novgorod,province," 107,090 "," 47,120 ",Baltic Sea,changeable,-1
+3,Pskov,province," 39,161 "," 17,231 ",Baltic Sea,temperate and stable,4
+4,Saint Petersburg,province," 46,920 "," 20,645 ",Baltic Sea,"wet, fluctuating",-3
+5,Estland,province," 18,209 "," 8,012 ",Baltic Sea,temperate,2
+6,Lifland,province," 40,790 "," 17,948 ",Baltic Sea,temperate but changeable,1
+7,Kurland,province," 23,987 "," 10,554 ",Baltic Sea,temperate but humid,0
+8,Grand Duchy of Finland,region," 309,663 "," 136,069 ",Baltic Sea,healthful,3
+9,Vyborg,province," 38,176 "," 16,797 ",Baltic Sea,healthful,3
+10,Nyuland,province," 11,612 "," 5,102 ",Baltic Sea,healthful,3
+11,Abosko-Berneborg,province," 16,596 "," 6,862 ",Baltic Sea,healthful,3
+12,Vaza,province," 36,483 "," 16,053 ",Baltic Sea,healthful,3
+13,Uleaborg,province," 130,446 "," 57,396 ",Baltic Sea,healthful,3
+14,Kuopio,province," 38,950 "," 17,138 ",Baltic Sea,healthful,3
+15,Saint Mikhel',province," 21,193 "," 9,325 ",Baltic Sea,healthful,3
+16,Tavastgus,province," 16,257 "," 7,153 ",Baltic Sea,healthful,3
+17,Vitebsk,province," 39,203 "," 17,249 ",Baltic Sea,temperate and stable,4
+18,Koven,province," 36,677 "," 16,138 ",Baltic Sea,temperate,2
+19,Vilensk,province," 37,159 "," 16,350 ",Baltic Sea,changeable,-1
+20,Grodno,province," 33,504 "," 14,742 ",Baltic Sea,temperate and stable,4
+21,Kingdom of Poland,region," 112,253 "," 49,325 ",Baltic Sea,cold,1
+22,Avgustov,province," 16,548 "," 6,841 ",Baltic Sea,cold,1
+23,Plotsk,province," 14,661 "," 6,451 ",Baltic Sea,cold,1
+24,Warsaw,province," 32,515 "," 14,307 ",Baltic Sea,cold,1
+25,Radom,province," 21,241 "," 9,346 ",Baltic Sea,cold,1
+26,Lublin,province," 7,289 "," 12,007 ",Baltic Sea,cold,1
+27,Smolensk,province," 43,326 "," 19,063 ",Black Sea,changeable,-1
+28,Mogilev,province," 42,814 "," 18,838 ",Black Sea,temperate and stable,4
+29,Minsk,province," 78,500 "," 34,540 ",Black Sea,temperate,2
+30,Volhynia,province," 62,732 "," 30,682 ",Black Sea,temperate,2
+31,Kiev,province," 44,242 "," 19,458 ",Black Sea,favorable,2
+32,Poltava,province," 43,385 "," 19,089 ",Black Sea,temperate,2
+33,Chernigov,province," 48,379 "," 21,287 ",Black Sea,temperate,2
+34,Kursk,province," 39,599 "," 17,424 ",Black Sea,"warm, pleasant, and healthful",5
+35,Bessarabia,province," 41,511 "," 18,265 ",Black Sea,generally salubrious,3
+36,Kamenets-Podol'sk,province," 37,443 "," 16,475 ",Black Sea,temperate,2
+37,Kherson,province," 64,450 "," 28,358 ",Black Sea,generally temperate but changeable,1
+38,Tavrida,province," 59,288 "," 26,087 ",Black Sea,temperate and warm,4
+39,Yekaterinoslav,province," 58,360 "," 25,678 ",Black Sea,temperate,2
+40,Kharkov,province," 47,667 "," 20,973 ",Black Sea,changeable,-1
+41,Voronezh,province," 58,517 "," 25,747 ",Black Sea,temperate,2
+42,Lands of the Don Cossack Host,province," 142,401 "," 62,568 ",Black Sea,"warm, pleasant, and healthful",5
+43,Stavropol,province," 64,707 "," 28,471 ",Black Sea,warm,2
+44,Lands of the Black Sea Cossack Host,province," 33,522 "," 14,750 ",Black Sea,temperate,2
+45,Tver,province," 59,151 "," 26,044 ",Caspian Sea,harsh and changeable,-4
+46,Yaroslav,province," 31,933 "," 14,051 ",Caspian Sea,temperate,2
+47,Kostroma,province," 72,427 "," 31,868 ",Caspian Sea,temperate,2
+48,Nizhegorod,province," 42,432 "," 18,670 ",Caspian Sea,rather cold,1
+49,Kazan,province," 54,574 "," 24,013 ",Caspian Sea,cold,1
+50,Simbirsk,province," 40,547 "," 17,841 ",Caspian Sea,rather temperate,2
+51,Saratov,province," 100,250 "," 44,110 ",Caspian Sea,temperate,2
+52,Samara,province," 117,962 "," 51,903 ",Caspian Sea,temperate,2
+53,Astrakhan,province," 162,766 "," 71,617 ",Caspian Sea,warm,2
+54,Orlov,province," 41,562 "," 18,287 ",Caspian Sea,temperate,2
+55,Kaluga,province," 27,746 "," 12,208 ",Caspian Sea,extremely temperate,2
+56,Tula,province," 26,853 "," 11,815 ",Caspian Sea,temperate,2
+57,Moscow,province," 28,511 "," 12,545 ",Caspian Sea,temperate and stable,4
+58,Ryazan,province," 37,084 "," 16,317 ",Caspian Sea,temperate and favorable,4
+59,Tambov,province," 58,171 "," 25,595 ",Caspian Sea,temperate,2
+60,Vladimir,province," 44,708 "," 18,352 ",Caspian Sea,temperate,2
+61,Penza,province," 33,394 "," 14,693 ",Caspian Sea,favorable,2
+62,Vyatka,province," 120,958 "," 53,222 ",Caspian Sea,generally harsh,-3
+63,Perm,province," 293,351 "," 129,074 ",Caspian Sea,generally cold,1
+64,Orenburg,province," 317,792 "," 139,828 ",Caspian Sea,stable,2
+65,Vologda,province," 33,711 "," 148,329 ",White Sea,extremely harsh,-3
+66,Arkhangelsk,province," 750,906 "," 330,399 ",White Sea,cold and healthful,4
+67,Tobolsk,province," 1,163,926 "," 512,127 ",Frozen Sea,generally cold,1
+68,Tomsk,province," 730,934 "," 321,611 ",Frozen Sea,changeable,-1
+69,Yenisei,province, -   , -   ,Frozen Sea,changeable,-1
+70,Irkutsk,province, -   , -   ,Frozen Sea,temperate,2
+71,Yakutsk,province, -   , -   ,[none],cold,1
+72,Zabaikal,province, -   , -   ,[none],harsh and changeable,-4
+73,Chukotka and Kamchatka,province, -   , -   ,Eastern Ocean,harsh,-3
+74,Russian American Company Territories,province, -   , -   ,Eastern Ocean,cold,1
+75,Caucasus,region, -   , -   ,Black & Caspian seas,harsh,-3
+76,Tiflis,province, -   , -   ,Black & Caspian seas,no notation,-
+77,Kutaisi,province, -   , -   ,Black & Caspian seas,no notation,-
+78,Yerivan,province, -   , -   ,Black & Caspian seas,temperate,2
+79,Shemakha,province, -   ," 1,030 ",Black & Caspian seas,no notation,-
+80,Derbent,province, -   , 270 ,Black & Caspian seas,no notation,-
+,,,,,,,
+,,,,,,,
+,,,,,,,
