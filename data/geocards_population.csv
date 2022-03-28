@@ -1,0 +1,81 @@
+﻿cardID,adm_eng,cd_type,region,capital,tl_towns,popl,popl_dns,eth_tl
+5,Estland,province,Baltic provinces,Revel',4," 310,400 ",38,4
+6,Lifland,province,Baltic provinces,Riga,5," 814,100 ",45,7
+7,Kurland,province,Baltic provinces,Mitava,6," 553,300 ",52,4
+17,Vitebsk,province,Belorussian provinces,Vitebsk,12," 789,500 ",46,6
+27,Smolensk,province,Belorussian provinces,Smolensk,12," 1,170,600 ",61,1
+28,Mogilev,province,Belorussian provinces,Mogilev,11," 931,300 ",49,6
+34,Kursk,province,Central (black earth) provinces,Kursk,12," 1,680,000 ",96,3
+41,Voronezh,province,Central (black earth) provinces,Voronezh,12," 1,657,900 ",64,5
+59,Tambov,province,Central (black earth) provinces,Tambov,12," 1,750,900 ",68,3
+61,Penza,province,Central (black earth) provinces,Penza,10," 1,087,200 ",74,3
+43,Stavropol,province,Caucasus,Stavropol',3," 402,300 ",14,8
+75,Caucasus,region,Caucasus,Tiflis,5," 3,000,000 ",0,13
+76,Tiflis,province,Caucasus,Tbilisi,5, -   ,0,3
+77,Kutaisi,province,Caucasus,Kutaisi,5, -   ,0,3
+78,Yerivan,province,Caucasus,Erevan,5," 12,310 ",0,3
+79,Shemakha,province,Caucasus,Shemakha,5," 460,000 ",447,4
+80,Derbent,province,Caucasus,Derbent,2," 116,500 ",432,2
+8,Grand Duchy of Finland,region,Grand Duchy of Finland,Vyborg,8," 1,411,952 ",10,5
+9,Vyborg,province,Grand Duchy of Finland,Vyborg,5," 249,217 ",15,3
+10,Nyuland,province,Grand Duchy of Finland,Gelsingfors,4," 138,106 ",27,3
+11,Abosko-Berneborg,province,Grand Duchy of Finland,Abo,6," 251,011 ",37,3
+12,Vaza,province,Grand Duchy of Finland,Vaza,6," 202,710 ",13,3
+13,Uleaborg,province,Grand Duchy of Finland,Uleaborg,4," 125,114 ",2,4
+14,Kuopio,province,Grand Duchy of Finland,Kuopio,11," 168,351 ",10,4
+15,Saint Mikhel',province,Grand Duchy of Finland,Sankt Mikhel,3," 133,537 ",14,3
+16,Tavastgus,province,Grand Duchy of Finland,Tavastgus,1," 143,906 ",20,4
+54,Orlov,province,Great Russian provinces,Orlov,12," 1,502,900 ",82,1
+55,Kaluga,province,Great Russian provinces,Kaluga,11," 1,006,400 ",82,1
+56,Tula,province,Great Russian provinces,Tula,12," 1,227,000 ",104,1
+57,Moscow,province,Great Russian provinces,Moscow,13," 1,374,700 ",110,1
+58,Ryazan,province,Great Russian provinces,Riazan,12," 1,365,900 ",84,3
+60,Vladimir,province,Great Russian provinces,Vladimir,13," 1,246,500 ",68,1
+21,Kingdom of Poland,region,Kingdom of Poland,Avgustov,5," 4,857,700 ",98,5
+22,Avgustov,province,Kingdom of Poland,Suvalki,6," 547,319 ",80,5
+23,Plotsk,province,Kingdom of Poland,Plotsk,6," 619,907 ",96,5
+24,Warsaw,province,Kingdom of Poland,Warsaw,12," 1,555,959 ",109,5
+25,Radom,province,Kingdom of Poland,Radom,8," 954,084 ",102,5
+26,Lublin,province,Kingdom of Poland,Liublin,8," 1,013,434 ",84,5
+49,Kazan,province,Lower Volga provinces,Kazan,12," 1,342,900 ",56,6
+50,Simbirsk,province,Lower Volga provinces,Simbirsk,8," 1,044,782 ",59,4
+51,Saratov,province,Lower Volga provinces,Saratov,10," 1,330,700 ",30,11
+52,Samara,province,Lower Volga provinces,Samara,7," 1,115,963 ",22,6
+53,Astrakhan,province,Lower Volga provinces,Astrakhan,5," 344,400 ",5,14
+33,Chernigov,province,Malorossian provinces,Chernigov,15," 1,430,000 ",67,5
+40,Kharkov,province,Malorossian provinces,Kharkov,11," 1,467,400 ",70,2
+32,Poltava,province,Malorussian provinces,Poltava,15," 1,783,000 ",93,3
+35,Bessarabia,province,New Russian provinces,Kishinev,9," 792,000 ",43,10
+37,Kherson,province,New Russian provinces,Kherson,6," 842,400 ",30,11
+38,Tavrida,province,New Russian provinces,Simferopol,8," 572,200 ",22,6
+39,Yekaterinoslav,province,New Russian provinces,Ekaterinoslav,9," 870,100 ",34,12
+42,Lands of the Don Cossack Host,province,New Russian provinces,Novocherkask,7," 704,300 ",11,6
+44,Lands of the Black Sea Cossack Host,province,New Russian provinces,Ekaterinodar,3," 125,400 ",9,1
+1,Olonetsk,province,Northeastern provinces,Petrozavodsk,7," 263,100 ",5,2
+62,Vyatka,province,Northeastern provinces,Viatka,11," 1,662,800 ",31,6
+63,Perm,province,Northeastern provinces,Perm,12," 1,637,700 ",13,6
+65,Vologda,province,Northeastern provinces,Vologda,10," 822,200 ",6,1
+66,Arkhangelsk,province,Northeastern provinces,Arkhangelsk,8," 253,000 ",1,7
+2,Novgorod,province,Northwestern provinces,Novgorod,11," 907,900 ",19,4
+3,Pskov,province,Northwestern provinces,Pskov,8," 775,800 ",45,3
+4,Saint Petersburg,province,Northwestern provinces,Saint Petersburg,8," 643,700 ",31,2
+64,Orenburg,province,Orenburg region,Ufa,9," 1,434,489 ",10,8
+30,Volhynia,province,Right Bank provinces,Zhitomir,12," 1,445,500 ",47,6
+31,Kiev,province,Right Bank provinces,Kiev,12," 1,605,800 ",83,2
+36,Kamenets-Podol'sk,province,Right Bank provinces,Kamenets Podolsk,12," 1,703,000 ",103,9
+74,Russian American Company Territories,province,Russian America,Sitka,0," 19,028 ",0,6
+69,Yenisei,province,Siberia,Krasnoiarsk,6," 18,159 ",0,5
+70,Irkutsk,province,Siberia,Irkutsk,3," 17,975 ",0,2
+71,Yakutsk,province,Siberia,Yakutsk,6, -   ,0,5
+72,Zabaikal,province,Siberia,Chita,3, -   ,0,3
+73,Chukotka and Kamchatka,province,Siberia,Nizhnekamchatsk,0, -   ,0,7
+45,Tver,province,Upper Volga provinces,Tver,12," 1,327,700 ",51,2
+46,Yaroslav,province,Upper Volga provinces,Yaroslavl',10," 1,008,100 ",72,3
+47,Kostroma,province,Upper Volga provinces,Kostroma,12," 1,054,600 ",33,3
+48,Nizhegorod,province,Upper Volga provinces,Nizhnii Novgorod,11," 1,178,200 ",63,5
+18,Koven,province,Western provinces,Kovno,12," 915,500 ",56,7
+19,Vilensk,province,Western provinces,Vilna,7," 863,700 ",53,4
+20,Grodno,province,Western provinces,Grodno,9," 907,100 ",62,5
+29,Minsk,province,Western provinces,Minsk,9," 1,046,400 ",30,7
+67,Tobolsk,province,Western Siberian provinces,Tobolsk,8," 839,354 ",2,5
+68,Tomsk,province,Western Siberian provinces,Tomsk,6," 564,602 ",2,5
