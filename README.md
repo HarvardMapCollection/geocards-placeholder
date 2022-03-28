@@ -5,3 +5,6 @@ Things to include:
 - Created in equidistant conic but uploaded in EPSG:4326 to support streaming from HGL
 
 - 
+
+
+This repository is in progress. Cite the Imperiia Project: https://dataverse.harvard.edu/dataverse/ImperiiaGIS
