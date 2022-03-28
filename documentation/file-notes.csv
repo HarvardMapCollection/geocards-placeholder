@@ -1,21 +1,21 @@
 ﻿Filename: GeoCards_[…],Title,Format,Attributes,Features,Content Note
-cards_provinces,Playing Cards: The Provinces,shapefile,4,77,feature = playing card (one card per province); includes URL of card image
-cards_regions,Playing Cards: The Regions,shapefile,4,3,feature = playing card (one card per region); includes URL of card image
+cards_provinces,Playing Cards: The Provinces,geojson,4,77,feature = playing card (one card per province); includes URL of card image
+cards_regions,Playing Cards: The Regions,geojson,4,3,feature = playing card (one card per region); includes URL of card image
 cards_deck,Playing Cards: The Deck,csv,3,80,feature = playing card (complete set); includes toponym transliterations from Russian); no image URLs
-econactivities,Playing Cards: Economic Activities,shapefile / csv,48,77,The cards display texts and graphics depicting prominent or noteworthy economic activities in each province. The list should not be understood as exhaustive. The cards contain no information about relative value or prevalence.
-eth_provinces,Playing Cards: Ethnic Diversity in the Provinces,shapefile,61,77,Attestations of the presence of ethnic groups; the cards contain no information about the size of any group.
-eth_regions,Playing Cards: Ethnic Diveristy in the Regions,shapefile,61,3,Attestations of the presence of ethnic groups; the cards contain no information about the size of any group.
+econactivities,Playing Cards: Economic Activities,geojson / csv,48,77,The cards display texts and graphics depicting prominent or noteworthy economic activities in each province. The list should not be understood as exhaustive. The cards contain no information about relative value or prevalence.
+eth_provinces,Playing Cards: Ethnic Diversity in the Provinces,geojson,61,77,Attestations of the presence of ethnic groups; the cards contain no information about the size of any group.
+eth_regions,Playing Cards: Ethnic Diveristy in the Regions,geojson,61,3,Attestations of the presence of ethnic groups; the cards contain no information about the size of any group.
 ethnicity,Playing Cards: Ethnic Diversity,csv,61,80,352 total attestations of the presence of ethnic groups; the cards contain no information about the size of any group.
-geo_provinces,Playing Cards: Geography of the provinces,shapefile,6,77,provinces only
-geo_regions,Playing Cards: Geography of the regions,shapefile,6,3,regions only
+geo_provinces,Playing Cards: Geography of the provinces,geojson,6,77,provinces only
+geo_regions,Playing Cards: Geography of the regions,geojson,6,3,regions only
 geography,Playing Cards: Geography,csv,6,80,includes provinces and regions
 specfeatures,Playing Cards: Special Features of the Provinces,csv,4,269,"The playing cards were meant to entertain, and the special features (особенности) noted and depicted offer a range of juicy historical and geographical tidbits of information."
-border,Playing Cards: Border of the Russian Empire,shapefile,1,8,"External border of the empire based primarily on GARE data, with adjustments for Armenia and the Kazakh steppe based on data by A. Zerger. Differentiates provinces from areas claimed but not yet controlled by St. Petersburg."
-pop_provinces,Playing Cards: Population of the Provinces,shapefile,7,77,provinces only
-pop_regions,Playing Cards: Population of the Regions,shapefile,7,3,regions only
+border,Playing Cards: Border of the Russian Empire,geojson,1,8,"External border of the empire based primarily on GARE data, with adjustments for Armenia and the Kazakh steppe based on data by A. Zerger. Differentiates provinces from areas claimed but not yet controlled by St. Petersburg."
+pop_provinces,Playing Cards: Population of the Provinces,geojson,7,77,provinces only
+pop_regions,Playing Cards: Population of the Regions,geojson,7,3,regions only
 population,Playing Cards: Population,csv,7,80,includes provinces and regions
-rivers,Playing Cards: Rivers,shapefile,1,86,"The cards name 138 different rivers, 86 of which are attested in the GARE dataset."
+rivers,Playing Cards: Rivers,geojson,1,86,"The cards name 138 different rivers, 86 of which are attested in the GARE dataset."
 rivers,Playing Cards: Rivers,csv,1,180,Complete set (180) attestations of rivers. Note: many rivers are named on more than one card.
-soil,Playing Cards: Soil,shapefile / csv,11,75,No note on soil conditions in Tiflis or Shemiakha.
-towns,Playing Cards: Towns,shapefile,9,616,Historical locations of all towns attested in the card set except Sakary (twnID 601); modern locations from GeoNames for all except Sakary and Korcheva (twnID 339 - flooded in the Soviet period)
+soil,Playing Cards: Soil,geojson / csv,11,75,No note on soil conditions in Tiflis or Shemiakha.
+towns,Playing Cards: Towns,geojson,9,616,Historical locations of all towns attested in the card set except Sakary (twnID 601); modern locations from GeoNames for all except Sakary and Korcheva (twnID 339 - flooded in the Soviet period)
 towns,Playing Cards: Towns,csv,9,617,All towns attested in the card set. Modern locations from GeoNames given for all except Sakary and Korcheva (twnID 339 - flooded in the Soviet period and no longer exists).
