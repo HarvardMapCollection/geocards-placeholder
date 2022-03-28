@@ -1,0 +1,270 @@
+﻿featID,cardID,feature,ft_text,ft_type
+1,1,forest,bountiful forest,graphic
+2,1,garden,Garden established by Peter I. ,graphic
+3,1,lakes,none,graphic
+4,1,mineral springs,Tsar Peter I established the Koncheozerskiya Martsial'nyia waters in 1714 and the Koncheozerskii cast iron factory in 1707.,text
+5,1,mountains,Olonetskie mountains,graphic
+6,2,forest,extensive forests,graphic
+7,2,lakes,"roughly 3,220 lakes",graphic
+8,2,lakes,"The province has 3,220 lakes.",text
+9,2,mountains,Valdaj mountains,graphic
+10,2,town,Novgorod is one of the most ancient cities of Russia. ,text
+11,2,wharf or pier,The pier on the Msta River.,text
+12,3,fortress,"Izborsk fortress, built in the thirteenth century",text
+13,3,town,The town of Pskov was founded by Princess (and Saint) Olga. ,text
+14,4,forest,bountiful forest,graphic
+15,4,fortress,Alexandrovskaya citadel,text
+16,4,fortress,The Petropavlovsk and Kronshtadt fortresses.,text
+17,4,swamps,none,graphic
+18,4,town,Petersburg was founded by Peter the Great in 1703 on the island of Enisar.,text
+19,5,castle,"Yekaterinental' (Ekaterinenthal) castle with gardens, established by Peter I.",text
+20,5,fortress,none,text
+21,5,mud baths,none,graphic
+22,5,port,military-commercial port,text
+23,6,forest,bountiful forest,graphic
+24,6,fortress,none,text
+25,6,lakes,"more than 1,000 lakes",graphic
+26,6,mountains,Mt. Ejerberg,graphic
+27,6,port,none,text
+28,6,town,Riga was founded in the year 1200.,text
+29,7,forest,bountiful forest,graphic
+30,7,swamps,none,graphic
+31,7,town,Mitava was established in 1561.,text
+32,7,town,The small town of Polangen with its border customs.,text
+33,9,fortress,an old fortress,text
+34,9,islands,none,graphic
+35,9,lighthouses,none,graphic
+36,9,port,a well-fortified port,text
+37,9,port,Fridrikhsgamskaya port,text
+38,10,factory,artificial mineral water,graphic
+39,10,forest,bountiful forest,graphic
+40,10,fortress,the first-class fortress at Sveaborg,text
+41,10,fortress,the second-class fortress Svartgol'm [Svartkhol'm],text
+42,10,garden,botanical garden,graphic
+43,10,harbor,none,graphic
+44,10,wharf or pier,ship wharf,graphic
+45,11,fortress,ancient fort,graphic
+46,11,fortress,first-class fortress on the island of Aland,text
+47,11,harbor,Nishtadtskaya [Nystad] harbor,text
+48,11,islands,none,graphic
+49,11,lakes,numerous lakes,graphic
+50,11,port,B'erneborg port,text
+51,11,wharf or pier,ship wharf,graphic
+52,12,factory,production of clocks and chronometers,graphic
+53,12,gulf,Gulf of Bothnia,text
+54,13,harbor,none,graphic
+55,13,town,From the heights near Torneo the sun is visible for several days in succession on the horizon.,text
+56,14,canal,Varkousskii Canal,graphic
+57,15,mountains,none,graphic
+58,17,fortress,Dinaburgskaya fortress,text
+59,17,town,Vitebsk is one of the most ancient cities in Russia.,text
+60,18,customs,The main customs with Prussia is located on the Neman River.,text
+61,18,forest,bountiful forest,graphic
+62,18,historic site,"In 1812, Napoleon's army, numbering 250,000 men, crossed the Neman into Russia.",text
+63,18,lakes,none,graphic
+64,19,town,​​​​Vil'no is one of the most ancient cities in Russia.,text
+65,20,fortress,the fortress of Brest-Litovsk,text
+66,20,mineral springs,none,graphic
+67,20,town,Grodno is among the most ancient of cities.,text
+68,23,fairs,none,graphic
+69,23,forest,bountiful forest,graphic
+70,23,fortress,New Georgievsk fortress,text
+71,24,forest,bountiful forest,graphic
+72,24,town,Warsaw has existed for over 600 years.,text
+73,25,forest,bountiful forest,graphic
+74,26,fortress,the fortresses of Zamost'e and Ivan-Gorod,text
+75,26,wharf or pier,Belevskaya pier,text
+76,27,forest,bountiful forest,graphic
+77,27,swamps,none,graphic
+78,27,town,Smolensk was completed by Boris Godunov.,text
+79,27,wharf or pier,piers at Gzhatsk and Porech'evsk,text
+80,28,forest,bountiful forest,graphic
+81,28,institute,Minerology and Farming Institute,graphic
+82,29,forest,bountiful forest,graphic
+83,29,fortress,Bobruiskaya fortress,text
+84,29,swamps,none,graphic
+85,30,customs,Four customs houses are located in the province.,text
+86,30,forest,black forest,graphic
+87,30,mountains,Avramynskii Ridge,graphic
+88,30,swamps,none,graphic
+89,31,forest,forests,graphic
+90,31,fortress,Kiev fortress (first-class),text
+91,31,mountains,Carpathian mountains,graphic
+92,31,town,Kiev is one of the most ancient cities in Russia.,text
+93,32,garden,botanical garden,graphic
+94,32,garden,There is a medicinal garden in the city of Lubny.,text
+95,32,town,Five versts from Poltava is located a Swedish grave where one thousand five hundred Russian soldiers are buried.,text
+96,33,town,Chernigov is one of the most ancient cities of Russia.,text
+97,34,fairs,none,graphic
+98,34,town,Kursk was founded by the Grand Prince Vladimir in 990.,text
+99,35,customs,Four customs houses,text
+100,35,fortress,Two fortresses and an ancient citadel,text
+101,35,mountains,part of the Carpathians,graphic
+102,36,mountains,Carpathian mountains,graphic
+103,36,town,Kamenets-Podolsk was built in the fourteenth century.,text
+104,37,admiralty,none,text
+105,37,fortress,none,text
+106,37,harbor,none,text
+107,37,mountains,Carpathian mountains,graphic
+108,37,port,military port,text
+109,37,shipyards,none,text
+110,37,town,Kherson was founded by Empress Catherine II in 1778.,text
+111,38,fortress,Sevastopol' fortress,text
+112,38,harbor,none,text
+113,38,mountains,Crimean mountains,graphic
+114,38,mud baths,curative mud baths at Saky,graphic
+115,38,port,none,text
+116,38,salt lakes,none,graphic
+117,38,town,Kerch-Yenikale gradonachal'stvo (city),text
+118,39,fortress,Taganrog fortress was founded by Peter the Great.,text
+119,39,town,Alexander the Blessed [Alexander I] died in Taganrog in 1825.,text
+120,40,fairs,significant fairs,graphic
+121,40,steppe,none,graphic
+122,40,town,Kharkov was founded by Cossacks in 1650.,text
+123,41,town,The founding of Voronezh is mentioned in chronicles in the beginning of the twelfth century.,text
+124,42,salt lakes,none,graphic
+125,42,wharf or pier,Pier in Kachalinskii camp.,text
+126,43,fortress,Kizlyar fortress,text
+127,43,garden,mulberry trees,graphic
+128,43,mineral springs,none,graphic
+129,43,mountains,Mt. Beshtaj,graphic
+130,43,salt lakes,none,graphic
+131,44,forest,bountiful forest,graphic
+132,44,fortress,chain of posts and fortifications on the Kuba River,text
+133,44,region,The Black Sea region is divided into 3 districts [okrugs].,text
+134,44,salt lakes,none,graphic
+135,44,swamps,none,graphic
+136,45,forest,bountiful forest,graphic
+137,45,lakes,none,graphic
+138,45,mountains,Ravenitskie mountains,graphic
+139,45,swamps,none,graphic
+140,45,town,Tver was built at the beginning of the twelfth century.,text
+141,45,wharf or pier,"the Rzhev, Zubtsov, and Tvorskaya piers ",text
+142,46,fairs,none,graphic
+143,46,town,Yaroslavl' was founded by the Grand Prince Yaroslav I.,text
+144,46,wharf or pier,Rybinskaya and Yaroslavskaya piers,text
+145,47,town,Kostroma was founded in the twelfth century by the Grand Prince Yurii Dolgorukov.,text
+146,47,wharf or pier,Kostroma and Kinishma piers ,text
+147,48,fairs,none,graphic
+148,48,town,Nizhnii Novgorod was founded by Georgii II Vsevolodovich in 1222.,text
+149,48,wharf or pier,In the province there are five very important piers.,text
+150,48,windmills,as many as 200 windmills,graphic
+151,49,fortress,Vizhnaya fortress on the Kama River.,text
+152,49,mountains,Ural mountains,graphic
+153,49,town,Kazan was founded in 1251 by the order of Tsar Saip of the Golden Horde.,text
+154,50,fairs,"trade in lard, leather, and grain",graphic
+155,50,town,Simbirsk was founded in 1648.,text
+156,50,wharf or pier,Simbirskskaya and Promzinskaya piers.,text
+157,51,forest,bountiful forest,graphic
+158,51,lakes,none,graphic
+159,51,town,Saratov was founded in 1591 by Tsar Feodor Ioa[n]novich.,text
+160,51,wharf or pier,Dubovka and Tsaritsynskaya piers,text
+161,52,lakes,none,graphic
+162,52,sulphur springs,none,graphic
+163,52,town,The city of Samara was founded in 1591.,text
+164,52,wharf or pier,Samara pier,text
+165,53,medicinal herbs,Herbs for use in apothecaries are grown here.,graphic
+166,53,port,Principal military port on the Caspian Sea founded by Peter I in 1722.,text
+167,53,salt lakes,none,graphic
+168,53,town,Astrakhan was founded by Tsar Ivan Vasil'ev[ich] the Terrible in 1554.,text
+169,53,watermelons,none,graphic
+170,54,wharf or pier,Orlovskaya and Brianskaya piers,text
+171,55,forest,bountiful forest,graphic
+172,55,fortress,"the Gzhanskaya, Belaya, and Zubtsovskaya fortresses ",text
+173,55,town,The date of the founding of Kaluga is unknown.,text
+174,57,historic site,Borodino field,graphic
+175,57,mineral springs,none,graphic
+176,57,monument,"Bell weighing 12,000 poods",graphic
+177,57,monument,Monument to Minin and Pozharsky,graphic
+178,57,monument,Sukharev tower built by Peter I,graphic
+179,57,town,"Moscow, the original capital of the Russian State. Moscow is one of the most ancient cities in Russia.",text
+180,57,village,Kolomenskoe village,graphic
+181,58,fortress,the ancient Zarai fortress,text
+182,58,town,Riazan was founded in the beginning of the thirteenth century.,text
+183,58,wharf or pier,Riazan and Kasimov piers,text
+184,59,forest,bountiful forest,graphic
+185,59,mineral springs,Lipetsky Mineral Springs,graphic
+186,59,town,Tambov was founded by Tsar Mikhail Feodorovich in 1636.,text
+187,59,wharf or pier,Important pier on the Tsna,text
+188,60,forest,bountiful forest,graphic
+189,60,lakes,"Plesheevo Lake, where Peter I sailed.",graphic
+190,60,monument,"the Golden Gates, built in 1164",text
+191,60,town,Vladimir was founded in 1118 by Vladimir Monomakh.,text
+192,61,forest,bountiful forest,graphic
+193,61,mountains,Alaunskie mountains,graphic
+194,61,wharf or pier,Pier on the Moksha River.,text
+195,62,forest,Ural mountains,graphic
+196,62,mountains,none,graphic
+197,62,town,Viatka was founded at the end of the twelfth century by people from Novgorod.,text
+198,63,fairs,Irbit fair,graphic
+199,63,wharf or pier,Perm pier on the Kama River,text
+200,64,fortress,Orenburg fortress,text
+201,64,mountains,Ural mountains,graphic
+202,64,town,Ufa was founded by Tsar Feodor Ivanovich in 1586.,text
+203,65,forest,bountiful forest,graphic
+204,65,mountains,Ural mountains,graphic
+205,65,town,Vologda is one of the oldest cities in Russia.,text
+206,65,wharf or pier,Noshul'skaya pier,text
+207,66,forest,bountiful forest,graphic
+208,66,fortress,The Novodvinskaya fortress was built by Peter I in 1701.,text
+209,66,mountains,none,graphic
+210,66,town,Arkhangel'sk was founded in 1637.,text
+211,67,fairs,none,graphic
+212,67,forest,bountiful forest,graphic
+213,67,fortress,Omsk frontier fortress,text
+214,67,lakes,"roughly 3,500 lakes",graphic
+215,67,swamps,none,graphic
+216,67,town,Tobolsk was founded in 1587.,text
+217,68,customs,A customs house and a trade center in Semipalatinsk,text
+218,68,forest,bountiful forest,graphic
+219,69,factory,Troitskoi lard-rendering factory,text
+220,69,forest,bountiful forest,graphic
+221,69,mountains,none,graphic
+222,69,steppe,Saganskaya steppe,graphic
+223,69,town,Krasnoiarsk was founded in 1628.,text
+224,70,fortress,Irkutsk fortress,text
+225,70,region,Within the boundaries of the province lie the gradonachal'stvo (urban administrative unit) of Kiakhta and the remarkable city of Troitskosavsk.,text
+226,71,forest,bountiful forest,graphic
+227,71,mountains,none,graphic
+228,71,port,The port of Ayan is located in Okhotsk.,text
+229,71,swamps,none,graphic
+230,72,forest,bountiful forest,graphic
+231,72,mountains,none,graphic
+232,72,valleys,expansive valleys,text
+233,73,forest,shipgrade forests,graphic
+234,73,harbor,Petropavlovsk harbor,text
+235,73,hot springs,none,text
+236,73,mountains,eternally snow-capped mountains,text
+237,73,mountains,"the ""marvelous"" Abachinskaya, Koriatskaya, and Kliusevskaya or Kamchatskaya peaks",both
+238,73,volcanoes,volcanoes or fire-breathing hills,both
+239,74,forest,bountiful forest,graphic
+240,74,mountains,eternally snow-capped mountains,graphic
+241,74,swamps,none,graphic
+242,74,town,"The distance from Okhotsk to St. Petersburg is 9,783 versts; by sea to Sitka is another 6,000.",text
+243,74,town,Trade was established by Baranov.,text
+244,74,volcanoes,none,graphic
+245,76,fortress,Tifliskaya and New Zakataly fortresses,text
+246,76,region,"Within the boundaries of Tiflis province there are 4 districts [okrug]: Gorskii, Osetinskii, Tushino-Pshavo Khevsurskii, and Velokanskii.",text
+247,76,town,"In 1826, on September 19th, Russians secured a victory under the leadership of Count Paskevich Erivanskii over Abas Mirza.",text
+248,76,town,"the spectacular Church of St. David, built in the 14th century",text
+249,76,town,Tiflis is the former capital of Georgia and the burial place of Griboedov.,text
+250,77,fortress,"Akhaltsykhskaya fortress and citadel, built in the beginning of the 11th century",text
+251,77,monument,the remarkable fortress Redut Kale is in Mingrelia,text
+252,77,ruins,ruins of a marble church built in the 11th century,text
+253,77,town,Kutais is one of the oldest cities in Georgia,text
+254,77,town,"the fortified city of Poti, at the mouth of the River Rioni",text
+255,78,fortress,In 1837 a fortress was established in Aleksandropol' in the presence of Emperor Nicholas I.,text
+256,78,fortress,two fortresses,text
+257,78,monastery,The wonderful monastery of Echmiadzin is located in Erivan.,text
+258,78,mountains,none,graphic
+259,78,town,Erivan was taken in the reign of Nicholas I in 1827.,text
+260,79,fire,Eternal fires worshipped by Indians.,text
+261,79,fortress,"In the province there are two fortresses, at Baku and Shusha.",text
+262,79,harbor,Harbor at Baku,graphic
+263,79,sulphur springs,none,graphic
+264,79,town,Shemakha was reestablished as a city in 1824.,text
+265,80,fortress,Derbent fortress and citadel,text
+266,80,mountains,none,graphic
+267,80,palace,"former khan's palace, once the residence of Peter the Great",text
+268,80,town,Derbent was founded in the sixth century by the Persian Tsar Nushirvan and taken by the Russians in 1796.,text
+269,80,wharf or pier,southern pier,graphic
