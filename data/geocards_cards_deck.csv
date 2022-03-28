@@ -1,0 +1,81 @@
+﻿cardID,adm_eng,adm_rus,cd_type,letter,gender,region
+5,Estland,Estlyandskaya guberniya,province,E,female,Baltic provinces
+6,Lifland,Liflyandskaya guberniya,province,J,pair,Baltic provinces
+7,Kurland,Kurlyandskaya guberniya,province,N,pair,Baltic provinces
+17,Vitebsk,Vitebskaya guberniya,province,K,pair,Belorussian provinces
+27,Smolensk,Smolenskaya guberniya,province,B,pair,Belorussian provinces
+28,Mogilev,Mogilevskaya guberniya,province,A,pair,Belorussian provinces
+34,Kursk,Kurskaya guberniya,province,[hard sign],female,Central (black earth) provinces
+41,Voronezh,Voronezhskaya guberniya,province,O,female,Central (black earth) provinces
+59,Tambov,Tambovskaya guberniya,province,KA,female,Central (black earth) provinces
+61,Penza,Penzinskaya guberniya,province,O,female,Central (black earth) provinces
+43,Stavropol,Stavropol'skaya guberniya,province,RIA,male,Caucasus
+75,Caucasus,Kavkazskii kraj,region,K,male,Caucasus
+76,Tiflis,Tifliskaya guberniya,province,A,male,Caucasus
+77,Kutaisi,Kutaiskaya guberniya,province,V,male,Caucasus
+78,Yerivan,Yerivanskaya guberniya,province,K,female,Caucasus
+79,Shemakha,Shemakhinskaya guberniya,province,A,male,Caucasus
+80,Derbent,guberniya Derbentskaya,province,Z,male,Caucasus
+8,Grand Duchy of Finland,Velikoe Kniazhestvo Finlyandii,region,[none],male,Grand Duchy of Finland
+9,Vyborg,Vyborgskaya guberniya,province,[none],male,Grand Duchy of Finland
+10,Nyuland,Nyulandskaya guberniya,province,B,male,Grand Duchy of Finland
+11,Abosko-Berneborg,Abosko-Berneborgskaya guberniya,province,A,male,Grand Duchy of Finland
+12,Vaza,Vazaskaya guberniya,province,L,female,Grand Duchy of Finland
+13,Uleaborg,Uleaborgskaya guberniya,province,T,female,Grand Duchy of Finland
+14,Kuopio,Kuopioskaya guberniya,province,I,male,Grand Duchy of Finland
+15,Saint Mikhel',Sankt Mikhel'skaya guberniya,province,J,male,Grand Duchy of Finland
+16,Tavastgus,Tavastguskaya guberniya,province,S,female,Grand Duchy of Finland
+54,Orlov,Orlovskaya guberniya,province,S,female,Great Russian provinces
+55,Kaluga,Kaluzhskaya guberniya,province,P,pair,Great Russian provinces
+56,Tula,Tul'skaya guberniya,province,I,pair,Great Russian provinces
+57,Moscow,Moskovskaya guberniya,province,J,pair,Great Russian provinces
+58,Ryazan,Ryazanskaya guberniya,province,S,female,Great Russian provinces
+60,Vladimir,Vladimirskaya guberniya,province,G,female,Great Russian provinces
+21,Kingdom of Poland,Tsarstvo Pol'skoe,region,M,pair,Kingdom of Poland
+22,Avgustov,Avgustovskaya guberniya,province,O,pair,Kingdom of Poland
+23,Plotsk,Plotskaya guberniya,province,R,pair,Kingdom of Poland
+24,Warsaw,Varshavskaya guberniya,province,IA,female,Kingdom of Poland
+25,Radom,Radomskaya guberniya,province,[none],pair,Kingdom of Poland
+26,Lublin,Lyublinskaya guberniya,province,[none],pair,Kingdom of Poland
+49,Kazan,Kazanskaya guberniya,province,J,female,Lower Volga provinces
+50,Simbirsk,Simbirskaya guberniya,province,N,female,Lower Volga provinces
+51,Saratov,Saratovskaya guberniya,province,[hard sign],female,Lower Volga provinces
+52,Samara,Samarskaya guberniya,province,K,male,Lower Volga provinces
+53,Astrakhan,Astrakhanskaya guberniya,province,A,female,Lower Volga provinces
+33,Chernigov,Chernigovskaya guberniya,province,N,pair,Malorossian provinces
+40,Kharkov,Khar'kovskaya guberniya,province,G,pair,Malorossian provinces
+32,Poltava,Poltavskaya guberniya,province,J,pair,Malorussian provinces
+35,Bessarabia,Bessarabskaya guberniya,province,CH,female,New Russian provinces
+37,Kherson,Khersonskaya guberniya,province,R,female,New Russian provinces
+38,Tavrida,Tavricheskaya guberniya,province,N,female,New Russian provinces
+39,Yekaterinoslav,Yekaterinoslavskaya guberniya,province,A,pair,New Russian provinces
+42,Lands of the Don Cossack Host,Zemlya Donskikh Kazakov,province,MO,pair,New Russian provinces
+44,Lands of the Black Sea Cossack Host,Zemlya Chernomorskikh Kazakov,province,[none],male,New Russian provinces
+1,Olonetsk,Olonetskaya guberniya,province,B,female,Northeastern provinces
+62,Vyatka,Vyatskaya guberniya,province,MO,female,Northeastern provinces
+63,Perm,Permskaya guberniya,province,RIA,female,Northeastern provinces
+65,Vologda,Vologodskaya guberniya,province,SE,female,Northeastern provinces
+66,Arkhangelsk,Arkhangel'skaya guberniya,province,VER,female,Northeastern provinces
+2,Novgorod,Novgorodskaya guberniya,province,A,pair,Northwestern provinces
+3,Pskov,Pskovskaya guberniya,province,S,pair,Northwestern provinces
+4,Saint Petersburg,Sankt Petersburgskaya guberniya,province,S,pair,Northwestern provinces
+64,Orenburg,Orenburgskaya guberniya,province,[none],female,Orenburg region
+30,Volhynia,Volynskaya guberniya,province,S,pair,Right Bank provinces
+31,Kiev,Kievskaya guberniya,province,E,female,Right Bank provinces
+36,Kamenets-Podol'sk,Kamenets Podol'skaya guberniya,province,E,pair,Right Bank provinces
+74,Russian American Company Territories,Rossiisko-Amerikanskie vladeniya,province,[none],male,Russian America
+69,Yenisei,Yenisejskaya guberniya,province,O,female,Siberia
+70,Irkutsk,Irkutskaya guberniya,province,KE,female,Siberia
+71,Yakutsk,Yakutskaya oblast',province,AN,female,Siberia
+72,Zabaikal,Oblast' Zabajkal'skaya,province,[none],male,Siberia
+73,Chukotka and Kamchatka,Chukotskaya zemlya i Kamchatskaya oblast',province,[none],male,Siberia
+45,Tver,Tverskaya guberniya,province,BA,trio,Upper Volga provinces
+46,Yaroslav,Yaroslavskaya guberniya,province,S,pair,Upper Volga provinces
+47,Kostroma,Kostromskaya guberniya,province,S,pair,Upper Volga provinces
+48,Nizhegorod,Nizhegorodskaya guberniya,province,E,pair,Upper Volga provinces
+18,Koven,Kovenskaya guberniya,province,A,female,Western provinces
+19,Vilensk,Vilenskaya guberniya,province,G,female,Western provinces
+20,Grodno,Grodnenskaya guberniya,province,O,pair,Western provinces
+29,Minsk,Minskaya guberniya,province,S,female,Western provinces
+67,Tobolsk,Tobol'skaya guberniya,province,NIJ,female,Western Siberian provinces
+68,Tomsk,Tomskaya guberniya,province,[none],female,Western Siberian provinces
