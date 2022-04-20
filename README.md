@@ -4,7 +4,7 @@
 
 ### What is the source of the attribute data?
 
-This data is sourced from a set of geographic playing cards produced in the 1850's. There is one playing card for each province of the Russian Empire. They were meant to be a pedagogical tool at teh time, but are packed with statistical information. The cards are held and digitized by the Library of Congress. To learn more about them, you can visit this [digital exhibition](https://scalar.fas.harvard.edu/imperiia/card-sorts?path=the-playing-cards).
+This data is sourced from a set of geographic playing cards produced in the 1850s. There is one playing card for each province of the Russian Empire. They were meant to be a pedagogical tool at teh time, but are packed with statistical information. The cards are held and digitized by the Library of Congress. To learn more about them, you can visit this [digital exhibition](https://scalar.fas.harvard.edu/imperiia/card-sorts?path=the-playing-cards).
 
 
 ### What is the source of the spatial data?
