@@ -2,6 +2,11 @@
 
 ## Q & A
 
+**What is the source of the attribute data?**
+
+This data is sourced from a set of geographic playing cards produced in the 1850's. There is one playing card for each province of the Russian Empire. They were meant to be a pedagogical tool at teh time, but are packed with statistical information. The cards are held and digitized by the Library of Congress. To learn more about them, you can visit this [digital exhibition](https://scalar.fas.harvard.edu/imperiia/card-sorts?path=the-playing-cards).
+
+
 **What is the source of the spatial data?**
 
 Administrative boundaries were sourced from the Geographical Atlas of the Russian Empire (GARE) published in the 1820s and adapted to reflect boundary changes made in the decades leading up to 1857. Town locations were also sourced from GARE. The points (towns) and polygons (provinces) are extraordinarily accurate representations of the data depicted on the atlas. GARE is recognized as the most comprehensive and accurate mapping of the empire prior to the middle of the 19th century. That said, the maps that compose the atlas were produced at different scales and in different projections. Together with the fact that the resolution of contemporary geospatial data is uniformly higher, this means that the despite the fact that this is the highest-quality data of its kind, users will find that the historical spatial data defines space slightly differently. Inaccuracy is not uniform across the data: it is more pronounced along the coastlines. (Additional note: The geojson and csv files for "towns" also include modern coordinate locations sourced from the Geonames gazetteer (geonames.org) with accompanying attestation URLs.)
