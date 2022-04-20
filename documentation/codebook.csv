@@ -1,0 +1,158 @@
+﻿File,Column Name,Human-readable,Data Source,Notes
+all,cardID,playing card identification number,card (obverse),unique identifier for each card based on the numerals assigned to the original playing cards
+all,adm_eng,"province or region name, in English",data enhancement,"simplified English names; standard English spellings used where available (such as ""Lifland"" instead of ""Lifliand""); the word ""province"" (translation of guberniia and oblast') is omitted"
+all,cd_type,card type,data enhancement,The set contains 3 regional cards and 77 individual province cards.
+border,area_type,area type,data enhancement,"This shapefile distinguishes between the area composed of provinces, and the areas over which the empire was in the process of establishing control."
+border,area_name,area name,reverse,Names of areas of the Caucasus are given on GARE. The Kirgiz steppe is referenced on the reverse-side maps of several provinces.
+cards[…],gender,gender,reverse,gender of the figures in the ethnographic depiction
+cards[…],letter,capital letter,reverse,"The letter is important for playing the game of ""patience"" with this particular set of cards. Laying them out in the correct order reveals a phrase meant to express the foundation of Russian geography."
+cards[…],cd_image,URL of card image,data enhancement,A mosaic of the observe/reverse of each card along with metadata; URL leads to the appropriate page of the Imperiia website.
+cards[…],adm_rus,"province or region name, transliterated",reverse,"transcribed in an adapted version of the Library of Congress standard transliteration (""е"" as ""ye""; ""я"" as ""ya""; й as ""i"")"
+cards_[…],region,statistical/administrative region,data enhancement,Added as a useful filter. Region names based on the scheme of the Military-Statistical Survey of the Russian Empire published 1848-1858.
+econactivities,trd_lvl,note on trade activity,obverse,"Trade levels assessed on a scale of 3: 3 = extremely significant, extremely active, flourishing; 2 = ""generally"" or ""rather"" active; 1 = insignificant; 0 = no notation."
+econactivities,econ_tl,total number of economic activities,data enhancement,number of different activities attested on each card
+econactivities,bast,bast production,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,beekp,beekeeping,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,canvas,canvas production,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,cattle,cattle farming,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,chalk,chalk extraction,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,coal,coal mining,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,copper,copper smelting,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,cott_cl,cotton and cloth production,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,crafts,craft production,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,distill,distilling,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,factor,factories,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,farming,crop farming,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,fishing,fishing,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,flax,flax cultivation,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,forestry,forestry,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,fossils,harvesting walrus teeth and mammoth bones,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,glass,glass production,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,grdning,gardening and orchardry,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,hemp,hemp cultivation and production of hemp oil,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,hops,hops cultivation,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,horses,horse farming,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,hunting,hunting and trapping,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,iron,iron production,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,leather,leather manufacturing,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,lime,lime production,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,linen,linen manufacturing,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,mining,mining,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,mint,coin minting,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,oil,oil extraction,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,paper,paper production,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,pine_oil,pine nut oil pressing,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,pitch,pitch making,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,porcel,porcelain production,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,potash,potash,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,quarry,quarrying,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,salt,salt mining and processing,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,sheep,sheep farming,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,shipbld,shipbuilding,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,shipping,shipping,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,silk,sericulture and silk manufacturing,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,sugar,sugar manufacturing,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,timber,timber cutting and transport,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,tobacco,tobacco,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,viticul,viticulture,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,weapons,weapons manufacturing,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+econactivities,wine,winemaking,obverse,"""1"" indicates mention of this economic activity; ""0"" indicates absence of mention."
+ethnic diversity,Abkhz,Abkhaz,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Ainu,Ainu (юкары),reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Aleut,Aleuts,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Armn,Armenians,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Belrss,Belorussia,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Bshkr,Bashkirs,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Bukhr,Bukharans,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Bulgrn,Bulgarians,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Buriat,Buriats,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Chagch,Chagach,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Cherm,Cheremis,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Chukt,Chukuts,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Chvsh,Chuvash,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Creol,Creoles,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Cssck,Cossacks,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Englsh,Englishmen,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Eston,Estonians,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Even,Evens (ламуты),reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Finn,Finns,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Frnch,Frenchmen,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Georg,Georgians,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Germn,Germans (and German colonists),reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Greek,Greeks,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Indn,Indians,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Jew,Jews,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Kalmyk,Kalmyks,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Karln,Karelians,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Kenai,Kenai,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Khivan,Khivans,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Kirgiz,Kirgiz,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Kist,Kists,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Kuril,Kuriltsy,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Latvn,Latvians,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Lezgn,Lezgins,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Lith,Lithuanians,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Lopar,Lopars,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Meshch,Meshchers,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Moldv,Moldovans,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Mongol,Mongols,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Mordv,Mordvinian,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Osset,Ossetians,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Ostk,Ostiaks,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Persn,Persians,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Pole,Poles,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Roma,Roma (цыганы),reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Russn,Russians,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Samd,Samoeds,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Samgt,Samogitian,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Sami,Sami,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Serb,Serbs,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Swed,Swedes,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Swiss,Swiss,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Tatar,Tatars,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Teptr,Teptiars,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Tungus,Tungus,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Turkmn,Turkmen,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Ukrn,Ukrainians,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Vlach,Vlachs,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Votk,Votiaks,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Yakt,Yakuts,reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+ethnic diversity,Zyrn,Zyrians (Komi),reverse,"""1"" indicates mention of this ethnic group; ""0"" indicates absence of mention."
+geo_[…],area_sqm,area of province in square miles,data enhancement,1 square verst = 0.44 square miles
+geo_[…],area_v,area of province in square versts,reverse,
+geo_[…],basin,drainage basin,reverse,
+geo_[…],clm_indx,climate index,data enhancement,"A rough (and somewhat fun) index of how favorable the weather would seem to be in each province based on the positive/negative qualities of the adjectives used in the text note. It is a sum of the values assigned to each listed term. For values see ""GeoCards_ref_index_climate."""
+geo_[…],clmt_txt,text note on climate,reverse,Climate is described with one or more adjectives.
+pop_[...],capital,provincial capital,obverse,The provincial town (provincial capital) is always listed first.
+pop_[...],eth_tl,total number of ethnicities,data enhancement,Total number of ethnicities attested. The cards include no information about quantities.
+pop_[...],popl,population,reverse,provincial population including males and females
+pop_[...],popl_dns,population density,data enhancement,people per square mile (calculated; not given on card)
+pop_[...],tl_towns,total towns,data enhancement,The cards list only provincial and district capitals.
+soil,fert,fertile,reverse,
+soil,infert,infertile,reverse,"includes ""invconvenient"""
+soil,clay,clay,reverse,
+soil,marsh,marshy,reverse,
+soil,sandy,sandy,reverse,
+soil,blck,black earth,reverse,
+soil,stony,stony,reverse,"includes ""hard"" ""granite"" ""sandstone"" ""marls"""
+soil,silty,silty,reverse,
+soil,loamy,loamy,reverse,"includes ""turf"""
+soil,varied,varied,reverse,
+soil,tl_soil,total number of soil types,data enhancement,
+spec features,featID,feature identification number,data enhancement,unique identifier for each special feature listed in the card set
+spec features,feature,feature name,data enhancement,general term assigned to allow for some amount of aggregation and comparison
+spec features,ft_text,card text (describing feature),obverse,Translations from the cards. Features are most often described in the margins of the observe.
+spec features,ft_type,feature type,data enhancement,All special features are attested with text; many have accompanying graphics.
+towns,loc_src,source of location data,data enhancement,This shapefile maps all towns to the locations attested on the Geographical Atlas of the Russian Empire (GARE) and extracted by the Imperiia Project with the exception of 15 not attested on the atlas and sourced instead from the geographic playing cards.
+towns,seq,sequence in which towns are listed,obverse,"provincial capitals are always listed first, followed by district towns"
+towns,twn_eng,town name in English,data enhancement,Medial soft signs have been eliminated for improved searchability.
+towns,twn_geon,town name as attested in Geonames,data enhancement,primary rendering of the placename given in the Geonames gazetteer (geonames.org)
+towns,twn_rus,town name in Russian,obverse,as given on the card
+towns,twn_type,town type,data enhancement,either provincial town (provincial capital) or district town (district capital)
+towns,twnID,town identification number,data enhancement,unique identifier for each town listed in the card set (total 614)
+towns,type_gare,town type as described on the Geographical Atlas of the Russian Empire (GARE),data enhancement,This field allows users to compare a town's status in the 1820s to its status in the 1850s.
+towns,gazID,gazetteer identification number,data enhancement,unique identifier linking features to main Imperiia gazetteer
+towns,geon_url,Geonames URL,data enhancement,URL of place attestation in the Geonames database
+towns,geon_crdn,Geonames coordinates,data enhancement,coordinate pairs (in decimal degrees)
+towns,geon_lat,latitude (from Geonames coordinates),data enhancement,coordinate pair (in decimal degrees)
+towns,geon_long,longitude (from Geonames coordinates),data enhancement,coordinate pair (in decimal degrees)
